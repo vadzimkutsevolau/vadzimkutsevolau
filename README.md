@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vadzimkutsevolau
-- 🌱 I’m currently learning Ruby
+- 🌱 I’m sofware engineer, work with Ruby on Rails based projects.
 
 
 <!---
